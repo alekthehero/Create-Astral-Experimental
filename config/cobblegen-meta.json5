@@ -21,6 +21,6 @@
 		// Load Create Integration
 		"loadIntegration": true,
 		// Disable Create's pipe support
-		"disablePipe": true,
+		"disablePipe": false,
 	},
 }
